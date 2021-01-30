@@ -4,6 +4,7 @@ user have to authenticate before user can showcase his/her profile.
 To install dependencies,
 
 $ npm install
+
 To run the project itself,
 
 $ npm start
